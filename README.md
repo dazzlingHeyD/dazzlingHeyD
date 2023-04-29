@@ -9,14 +9,12 @@
 Here are some ideas to get you started:
 
 
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=SQL&logoColor=white"/>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=SQL&logoColor=white"/>
+	<img src="https://img.shields.io/badge/MySQL-E34F26?style=flat&logo=SQL&logoColor=white"/>
 </div>
+
 
 
 - 🔭 I’m currently working on ...
