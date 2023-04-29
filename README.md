@@ -36,7 +36,7 @@
 
 <div align=center>
 	<a href="https://dazz17heyday2.tistory.com">
-		<img src="https://img.shields.io/badge/Tistory-FF9800?style=flat&logo=Blogger&logoColor=white" />
+		<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
 	</a>
 	<a href="https://velog.io/@plussell">
 		<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
